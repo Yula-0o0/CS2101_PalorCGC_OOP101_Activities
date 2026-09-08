@@ -7,7 +7,7 @@ public class Canteen {
         double[] costs = {80.00, 120.00, 100.00, 70.00, 90.00, 500.00};
 
         int totalQuantity = 0;
-        double subTotal = 0.0;
+        double subTotal = 0.0; 
         double totalDiscount = 0.0;
 
         char continueOrder = 'Y';
